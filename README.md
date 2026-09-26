@@ -97,5 +97,112 @@ Assignment Problems:
 
 ---
 
+# STEP Semester 3
 
+## Week 4 – OOP Fundamentals
 
+**Work Completed:**
+- Practiced basic Object-Oriented Programming concepts in Java
+- Created classes and objects
+- Worked with constructors and methods
+- Practiced arrays of objects
+- Used instance and static variables
+
+**Concepts Practiced:**
+- Classes and Objects
+- Constructors
+- Methods
+- Instance Variables
+- Static Variables and Methods
+- Arrays of Objects
+- Object References
+
+---
+
+## Week 5 – Arrays and OOP Practice
+
+**Work Completed:**
+- Solved array-based programming problems
+- Practiced modifying arrays through methods
+- Found duplicate values using nested loops
+- Found top values without sorting
+- Worked with 2D arrays and helper methods
+- Practiced method overloading and object comparison
+
+**Concepts Practiced:**
+- Arrays
+- 2D Arrays
+- Nested Loops
+- Passing Arrays to Methods
+- Helper Methods
+- Method Overloading
+- Comparable
+- Arrays.sort()
+
+---
+
+## Week 6 – Classes, Constructors and Object Behaviour
+
+**Work Completed:**
+- Created programs using classes and objects
+- Practiced data encapsulation using private variables
+- Used constructor overloading and constructor chaining
+- Explored object references and reference comparison
+- Worked with static fields shared between objects
+
+**Concepts Practiced:**
+- Classes and Objects
+- Encapsulation
+- Private Data Members
+- Constructor Overloading
+- Constructor Chaining using this()
+- Object References
+- Reference Comparison using ==
+- Static Variables and Methods
+
+---
+
+## Week 7 – Encapsulation and Data Protection
+
+**Work Completed:**
+- Built classes with private data members
+- Controlled modification of object data through methods
+- Used final fields for values that should not change
+- Created immutable-style objects
+- Protected internal arrays from direct external access
+- Practiced validation while modifying object state
+
+**Concepts Practiced:**
+- Encapsulation
+- Private Fields
+- Getter Methods
+- Controlled Data Modification
+- final Keyword
+- Immutability
+- Defensive Copying
+- Data Validation
+
+---
+
+## Week 8 – Inheritance and Polymorphism
+
+**Work Completed:**
+- Created base classes and specialized derived classes
+- Used inheritance to share common properties and behaviour
+- Overrode methods to provide different behaviour for derived classes
+- Processed different derived objects using common base-class references
+- Used polymorphic arrays for uniform processing
+- Applied inheritance and polymorphism to billing, payments, delivery, transport, employee, and other systems
+
+**Concepts Practiced:**
+- Inheritance
+- Base and Derived Classes
+- extends Keyword
+- Method Overriding
+- @Override
+- Runtime Polymorphism
+- Dynamic Method Dispatch
+- Polymorphic Arrays
+- Common Base-Class References
+- super Keyword
+- Is-A Relationship
