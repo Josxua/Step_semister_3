@@ -62,5 +62,40 @@ Assignment Problems:
 
 ---
 
+# Week 3 - OOP Fundamentals
+
+**Date:** 26-09-2026
+
+## Class / Practice Problems
+
+1. Simple Student Record Class
+2. Two Objects, Two Separate States - Hostel Room
+3. Reading Java's Default Field Values - Library Card
+4. Basic Constructor for a Course
+5. Counting Objects With a Static Field - Applicant
+
+## Assignment Problems
+
+1. Simple Book Record Class
+2. Two Objects, Two Separate Occupancy Counts - Exam Hall
+3. Reading Java's Default Field Values - Employee
+4. Basic Constructor for a Product
+5. Counting Objects With a Static Field - Order
+
+## Concepts Covered
+
+- Classes and Objects
+- Object Creation using `new`
+- Instance Variables
+- Direct Field Access
+- Independent Object States
+- Default Field Values
+- Constructors
+- `this` Keyword
+- Static Fields
+- Accessing Static Members Through Class Name
+
+---
+
 
 
